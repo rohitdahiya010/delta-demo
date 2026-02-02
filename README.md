@@ -5,4 +5,4 @@ This is demo for Git &amp; Github class.
 shardha khapra
 
 # Students
-Delta studemts
+Rohit Dahiya
